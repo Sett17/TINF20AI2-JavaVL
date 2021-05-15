@@ -1,6 +1,7 @@
 public class Calculator {
 
     enum Operation {
+        // enums mit functionen drin wurde kurz angerissen, man kann das auch anders machen
         PLUS {
             @Override
             public double calc(int num1, int num2) {
