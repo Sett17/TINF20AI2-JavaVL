@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculatorCallback/CalculatorCallback.iml" filepath="$PROJECT_DIR$/CalculatorCallback/CalculatorCallback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections1/Collections1.iml" filepath="$PROJECT_DIR$/Collections1/Collections1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaVL.iml" filepath="$PROJECT_DIR$/JavaVL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortCollections/SortCollections.iml" filepath="$PROJECT_DIR$/SortCollections/SortCollections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserException/UserException.iml" filepath="$PROJECT_DIR$/UserException/UserException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/carJ/carJ.iml" filepath="$PROJECT_DIR$/carJ/carJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclingYard/recyclingYard.iml" filepath="$PROJECT_DIR$/recyclingYard/recyclingYard.iml" />
+    </modules>
+  </component>
+</project>
