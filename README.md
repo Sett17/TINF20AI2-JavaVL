@@ -5,8 +5,8 @@ hier kommen alle meine Lösungen zu den Aufgaben aus der Java VL. Mir rille was 
 ### WICHTIG!
 
 Es ist zum abschreiben für manche nicht das beste, da in ein paar Fällen vielleicht *etwas* andere Wege benutztz werden um zum Ziel zu kommen. Sollte aber echt kein großes Ding sein, ist *glaube* ich
-alle in der VL besprochen. *Falls nicht, fragt einfach irgendwo oder macht nen Issue mit der Frage hier auf, dann is das auch öffentlich für alle.*
-
+alle in der VL besprochen. **Falls nicht, fragt einfach irgendwo oder macht nen Issue mit der Frage hier auf, dann is das auch öffentlich für alle.**
+ 
 ## Inhalt
 Viele Sachen sind auf English geschrieben, da mir das angenehmer ist. English sollt ja aber jeder hier können 😉
 
