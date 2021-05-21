@@ -2,6 +2,8 @@
 
 hier kommen alle meine Lösungen zu den Aufgaben aus der Java VL. Mir rille was ihr damit macht, abschreiben ode reingucken als Hilfestellung oder as auch immer.
 
+Ich mach das alles nur in der Vorlesung, während der Aufgabenzeit, also keine Sorge, mach den langweiligen kram nicht in der Freizeit 👍🍻
+
 ### WICHTIG!
 
 Es ist zum abschreiben für manche nicht das beste, da in ein paar Fällen vielleicht *etwas* andere Wege benutztz werden um zum Ziel zu kommen. Sollte aber echt kein großes Ding sein, ist *glaube* ich
