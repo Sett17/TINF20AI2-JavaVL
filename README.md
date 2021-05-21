@@ -20,7 +20,7 @@ Viele Sachen sind auf English geschrieben, da mir das angenehmer ist. English so
 - [x] Collections1
 - [x] Generics/Collections2
 - [x] Sortieren von Collection
-- [x] Lambdas (aber schon davor benutzt, sry [nicht allzu complicated zum ersetzen])
+- [x] Lambdas
 - [ ] Lambdas & Streams
 - [ ] JUnit
 - [ ] JavaFx Login
