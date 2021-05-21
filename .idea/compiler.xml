@@ -3,6 +3,7 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
       <module name="Lambdas1" target="15" />
+      <module name="Lambdas2" target="15" />
     </bytecodeTargetLevel>
   </component>
 </project>
