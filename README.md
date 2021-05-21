@@ -10,13 +10,13 @@ alle in der VL besprochen. **Falls nicht, fragt einfach irgendwo oder macht nen 
 ## Inhalt
 Viele Sachen sind auf English geschrieben, da mir das angenehmer ist. English sollt ja aber jeder hier können 😉
 
-- [x] Auto (mit `paint` method & Cabrio)
+- [x] Auto (mit `paint` method & products.Cabrio)
 - [x] Calculator (kopiert vom Dozent [da hab ich noch net mitgearbeitet])
 - [x] Recyclinghof
 - [x] Calculator mit Callback (calculator immernoch kopiert)
 - [x] Exceptions
 - [x] Collections1
-- [ ] Generics/Collections2
+- [x] Generics/Collections2
 - [x] Sortieren von Collection
 - [ ] Lambdas (aber schon davor benutzt, sry [nicht allzu complicated zum ersetzen])
 - [ ] Lambdas & Streams
