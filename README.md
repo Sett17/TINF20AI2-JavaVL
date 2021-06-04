@@ -23,7 +23,7 @@ Viele Sachen sind auf English geschrieben, da mir das angenehmer ist. English so
 - [x] Lambdas
 - [X] Lambdas & Streams
 - [x] JUnit (mit Gradle anstatt Maven)
-- [ ] JavaFx Login
+- [x] JavaFx Login
 - [x] Singleton (warum kommt das so spät?)
 - [ ] Oberserver Pattern
 

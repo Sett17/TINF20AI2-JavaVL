@@ -8,14 +8,14 @@
 
 <?import javafx.geometry.Insets?>
 <GridPane xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml"
-          alignment="center" hgap="10" vgap="10">
+          alignment="center" hgap="10" vgap="10" fx:controller="tinf20ai.ViewController">
     <padding><Insets top="10" right="10" bottom="10" left="10"/></padding>
     <children>
         <Label text="Name:" GridPane.columnIndex="0" GridPane.rowIndex="0"></Label>
-        <TextField GridPane.columnIndex="1" GridPane.rowIndex="0"></TextField>
+        <TextField fx:id="nameInput" onKeyPressed="#onEnter" GridPane.columnIndex="1" GridPane.rowIndex="0"></TextField>
         <Label text="Password:" GridPane.columnIndex="0" GridPane.rowIndex="1"></Label>
-        <PasswordField GridPane.columnIndex="1" GridPane.rowIndex="1"></PasswordField>
-        <Button text="Login" GridPane.columnIndex="0" GridPane.rowIndex="2"></Button>
+        <PasswordField fx:id="passwordInput" onKeyPressed="#onEnter" GridPane.columnIndex="1" GridPane.rowIndex="1"></PasswordField>
+        <Button text="Login" onAction="#onLoginClick" GridPane.columnIndex="0" GridPane.rowIndex="2"></Button>
     </children>
 </GridPane>
 
