@@ -3,9 +3,19 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/JavaFXLogin" />
+    <file type="web" url="file://$PROJECT_DIR$/JavaFxLoginGradle" />
+    <file type="web" url="file://$PROJECT_DIR$/JavaFxLoginKotlin" />
     <file type="web" url="file://$PROJECT_DIR$/Lambdas1" />
     <file type="web" url="file://$PROJECT_DIR$/Lambdas2" />
     <file type="web" url="file://$PROJECT_DIR$/SimpleCalculatorTest" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/„JavaFXLogin“/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaFXLogin/pom.xml" />
+      </list>
+    </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_16" default="true" project-jdk-name="openjdk-16" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
